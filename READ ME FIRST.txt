@@ -1,0 +1,14 @@
+  ~/Created by :- PADA Seneviratne
+                  D/BCS/19/0006
+
+  ~/Admin username : admin
+  ~/Admin password : 1234
+
+  ~/Librarian username : librarian
+  ~/Librarian password : 1234
+
+  ~/Database is in the Database folder in both .sql and .pdf formats.
+  ~/Demo video is in the Demo Video folder.
+
+                   ~ENJOY~
+      ~ALL RIGHTS RESERVED BY GUDNITE~
